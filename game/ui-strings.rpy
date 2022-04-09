@@ -355,7 +355,7 @@ init -3 python:
                                         ("Act 2: Disconnect", rp_actmark, rp_actmark, ("Act 2","Rin")),
                                         ("A Wider Field of Vision", "R1", "Hisao spends a lunch break with Rin watching clouds on the rooftop.", ("Act 2","Rin")),
                                         ("Studies in Grayscale", "R2", "Rin and Hisao draw portraits of each other at his first art club meeting.", ("Act 2","Rin")),
-                                        (u"Interstitial", "R3", "Kenji lends a “borrowed” book to Hisao.", ("Act 2","Rin")),
+                                        (u"Interstitial", "R3", "Kenji lends a \"borrowed\" book to Hisao.", ("Act 2","Rin")),
                                         ("Self Study", "R4", "Misha and Shizune catch Hisao meditatively doodling during class.", ("Act 2","Rin")),
                                         ("Hisao's Smile", "R5", "Rin talks to Hisao about his happy expressions, or lack of them.", ("Act 2","Rin")),
                                         ("Things You Like", "R6", "Brief musings with Yuuko about books and Yamaku.", ("Act 2","Rin")),
@@ -431,7 +431,7 @@ init -3 python:
                                         ("Spiral", "S39", "Runaround, stonewalling, and Kenji nighttime ambush.", ("Act 4","Shizune")),
                                         ("Terminal", "S40", "An early-morning talk with Shizune in the silent school.", ("Act 4","Shizune")),
                                         ("The Summit", "S34", "Kenji and Shizune meet in Hisao's room. Miraculously, nothing explodes.", ("Act 4","Shizune")), 
-                                        ("Succession", "S35", "The current Student Council shapes up their successors before engaging in “extracurricular activities.”", ("Act 4","Shizune")),
+                                        ("Succession", "S35", "The current Student Council shapes up their successors before engaging in \"extracurricular activities.\"", ("Act 4","Shizune")),
                                         ("Sneaking Mission", "S36", "The show of Misha's determination spurs Shizune to set her sights on greater things.", ("Act 4","Shizune")),
                                         ("Infinity", "S37", "Our trio renews their friendship, with their graduation looming close ahead.", ("Act 4","Shizune")),
                                         )
